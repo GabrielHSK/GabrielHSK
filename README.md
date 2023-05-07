@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielHSK, moro atualmente no Paraná, BR. Tenho 23 anos 
+- 👋 Hi, I’m @GabrielHSK, moro atualmente em São José SC, BR. Tenho 23 anos 
 - 👀 I’m interested in ... meditação, autoconhecimento, música e programação
 - 🌱 I’m currently learning ... JAVA OO 
 - 💞️ I’m looking to collaborate on ... qualquer projeto relacionado em programação, 

@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GabrielHSK, moro atualmente em São José SC, BR. Tenho 23 anos 
-- 👀 I’m interested in ... meditação, autoconhecimento, música e programação
-- 🌱 I’m currently learning ... JAVA OO 
+- 👋 Namastê, I’m @GabrielHSK, eu moro atualmente em São José SC, BR
+- - 🌱 I’m currently learning ... JAVA OO, JavaScript, NodeJs
+- 👀 I’m interested in ... programação, meditação, autoconhecimento, música
 - 💞️ I’m looking to collaborate on ... qualquer projeto relacionado em programação, 
-- 📫 How to reach me ... você pode me encontrar no instagram: instagram.com/gabeshds/
+você pode me encontrar no twitter @sunslckmoon
 
 <!---
 GabrielHSK/GabrielHSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
